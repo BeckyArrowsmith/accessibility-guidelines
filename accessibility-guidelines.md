@@ -10,9 +10,9 @@ The Web is fundamentally designed to work for all people, whatever their physica
 
 The impact of disability is radically changed on the Web because the Web, in it’s nature, removes barriers to communication and interaction that many people face in the physical world. However when digital products and services are badly designed, avoidable barriers to content are put in place.
 
-Failure to implement accessibility guidelines could be classed as discrimination under the Disability Discrimination Act (DDA). The RNIB has approached two large companies about their accessibility issues and has threatened to sue if they weren’t fixed. (INCLUDE RNIB PRESS OFFICE REPLY). This legislation ensures that websites are accessible to blind and disabled users.
+<!-- Failure to implement accessibility guidelines could be classed as discrimination under the Disability Discrimination Act (DDA). The RNIB has approached two large companies about their accessibility issues and has threatened to sue if they weren’t fixed. (INCLUDE RNIB PRESS OFFICE REPLY). This legislation ensures that websites are accessible to blind and disabled users. -->
 
-
+--- equality act 2010 ---
 
 And of course, we want to make awesome stuff in general!
 
