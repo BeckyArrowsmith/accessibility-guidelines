@@ -12,17 +12,7 @@ The impact of disability is radically changed on the Web because the Web, in it�
 
 Failure to implement accessibility guidelines could be classed as discrimination under the Disability Discrimination Act (DDA). The RNIB has approached two large companies about their accessibility issues and has threatened to sue if they weren’t fixed. (INCLUDE RNIB PRESS OFFICE REPLY). This legislation ensures that websites are accessible to blind and disabled users.
 
-**Some relevant quotes from the above legislation:**
 
-*2.2 (p7):* “The Disability Discrimination Act makes it unlawful for a service provider to discriminate against a disabled person by refusing to provide any service which it provides to members of the public.”
-
-*4.7 (p39):* “From 1st October 1999 a service provider has to take reasonable steps to change a practice which makes it unreasonably difficult for disabled people to make use of its services.”
-
-*2.13 - 2.17 (p11-13):* “What services are affected by the Disability Discrimination Act? An airline company provides a flight reservation and booking service to the public on its website. This is a provision of a service and is subject to the act.”
-
-*5.23 (p71):* “For people with visual impairments, the range of auxiliary aids or services which it might be reasonable to provide to ensure that services are accessible might include ... accessible websites.”
-
-*5.26 (p68):* “For people with hearing disabilities, the range of auxiliary aids or services which it might be reasonable to provide to ensure that services are accessible might include ... accessible websites.”
 
 And of course, we want to make awesome stuff in general!
 
