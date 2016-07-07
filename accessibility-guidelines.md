@@ -144,7 +144,7 @@ Input types should be thought about (can this dropdown be replaced by a simple t
 These are what WCAG consider ‘intermediate’ guidelines. Links to the full documentation and a succinct explanation is provided.
 
 ####Live videos have captions
-The deaf or hard of hearing should be allowed to watch real time presentation via the use of captions. They should be available via the audio track.
+Deaf or hard of hearing people should be allowed to watch real time presentation via the use of captions. They should be available via the audio track.
 Users have access to audio descriptions for video content
 Captions should describe the content for the visually impaired or those unable to see access video.
 
