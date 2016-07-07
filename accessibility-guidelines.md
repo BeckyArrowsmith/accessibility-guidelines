@@ -223,7 +223,7 @@ WAI-ARIA is a specification defining support for accessible web apps. It defines
 ##Screen Readers
 Screen readers are software designed to allow blind or visually impaired users do a variety of things, though mainly to read the text displayed on the screen via a speech synthesiser. A screen reader will essentially sit between the OS and its applications and the user. The user can use a number of ways to communicate with this software, the main way being keyboard commands which allows the user to. The user can skip around a webpage or app and instruct the screen reading software to read out what they require.
 
-##Some popular examples of screen readers include:
+**Some popular examples of screen readers include:**
 [Apple Voiceover](https://www.w3.org/WAI/ER/tools/?q=wcag-20-w3c-web-content-accessibility-guidelines-20)
 * Features Alex, a voice synthesiser that includes a ‘breath’ between words to make it more human-like.
 
@@ -233,13 +233,13 @@ Screen readers are software designed to allow blind or visually impaired users d
 
 * This is of course only accessible on Apple devices.
 
-[JAWS (Job Access With Speech)](ttp://www.freedomscientific.com/Products/Blindness/JAWS)
+[JAWS] (ttp://www.freedomscientific.com/Products/Blindness/JAWS) (Job Access With Speech)
 * Usage figures are dropping for JAWS, quite possibility because of it’s aging tech and high price compared to other free, high quality alternatives. Usage has dropped from 63.9% of users deeming they use it often to 43.7%.
 
-[NVDA (NonVisual Desktop Access)](ttp://www.freedomscientific.com/Products/Blindness/JAWS)
+[NVDA](http://www.freedomscientific.com/Products/Blindness/JAWS) (NonVisual Desktop Access)
 * NVDA is developed by two visually impaired friends who founded the non-profit organisation NV access to support the development of the NVDA screen reader.
 
-*NVDA is open source software, which means the code is accessible to anyone. This enables translators and developers around the world to continually contribute to its expansion and improvement.
+* NVDA is open source software, which means the code is accessible to anyone. This enables translators and developers around the world to continually contribute to its expansion and improvement.
 
 
 
