@@ -75,11 +75,11 @@ Will allow the browser to send the number to a smart phones dialer. It will also
 ####Tab index
 Tab index essentially sets the order of ‘focusable’ elements. It allows the user to skip around the form using the tab key. it is set using a numeric value, see below:
 
-`<input tabindex=“-1”>` - the minus value indicates this is not to be ‘focusable’. This is useful for skip links.
+* `<input tabindex=“-1”>` - the minus value indicates this is not to be ‘focusable’. This is useful for skip links.
 
-`<input tabindex=“0”>` - the first focused control when the tab hit is hit.
+* `<input tabindex=“0”>` - the first focused control when the tab hit is hit.
 
-`<input tabindex=“1”>` - and the second, and so on.
+* `<input tabindex=“1”>` - and the second, and so on.
 
 ##WCAG guidelines
 The Web Content Accessibility Guidelines, often abbreviated to WCAG, are a series of guidelines for improving web accessibility. Produced by the World Wide Web Consortium (W3C), the WCAG are the best means of making your website useful to all of your users.
@@ -208,9 +208,9 @@ You can test yourself using online services, though be aware that these will pic
 
 The most common of these services include:
 
-[WAVE](http://wave.webaim.org/)
-[Tenon](https://tenon.io/)
-[HTML_sniffer](https://www.squizlabs.com/general/html-codesniffer)
+* [WAVE](http://wave.webaim.org/)
+* [Tenon](https://tenon.io/)
+* [HTML_sniffer](https://www.squizlabs.com/general/html-codesniffer)
 
 You can also check out [W3Cs list of web accessibility tools](https://www.w3.org/WAI/ER/tools/?q=wcag-20-w3c-web-content-accessibility-guidelines-20).
 
@@ -225,13 +225,13 @@ Screen readers are software designed to allow blind or visually impaired users d
 
 ##Some popular examples of screen readers include:
 [Apple Voiceover](https://www.w3.org/WAI/ER/tools/?q=wcag-20-w3c-web-content-accessibility-guidelines-20)
-*Features Alex, a voice synthesiser that includes a ‘breath’ between words to make it more human-like.
+* Features Alex, a voice synthesiser that includes a ‘breath’ between words to make it more human-like.
 
-*Gestures can be used for more information about a highlighted part of the page, help the user skip to another page of the page or a different page entirely.
+* Gestures can be used for more information about a highlighted part of the page, help the user skip to another page of the page or a different page entirely.
 
-*“The Rotor” is used to switch between options easily, like an actual dial. This lowers the barrier of entry as new gestures don’t have to be used.
+* “The Rotor” is used to switch between options easily, like an actual dial. This lowers the barrier of entry as new gestures don’t have to be used.
 
-*This is of course only accessible on Apple devices.
+* This is of course only accessible on Apple devices.
 
 [JAWS (Job Access With Speech)](ttp://www.freedomscientific.com/Products/Blindness/JAWS)
 * Usage figures are dropping for JAWS, quite possibility because of it’s aging tech and high price compared to other free, high quality alternatives. Usage has dropped from 63.9% of users deeming they use it often to 43.7%.
