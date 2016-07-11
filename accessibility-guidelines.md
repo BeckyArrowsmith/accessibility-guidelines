@@ -6,13 +6,11 @@ These guidelines should be followed by anyone designing, developing, testing or 
 >“The power of the Web is in its universality. Access by everyone regardless of disability is an essential aspect.”
 Tim Berners-Lee, W3C Director and inventor of the World Wide Web
 
-The Web is fundamentally designed to work for all people, whatever their physical or mental ability. The Web should be accessible to people with a diverse range of hearing, movement, sight, and cognitive ability. 
+The Web is fundamentally designed to work for all people, regardless of any disability or access need. The Web should be accessible to people with a diverse range of hearing, movement, sight, and cognitive ability.
 
 The impact of disability is radically changed on the Web because the Web, in it’s nature, removes barriers to communication and interaction that many people face in the physical world. However when digital products and services are badly designed, avoidable barriers to content are put in place.
 
-<!-- Failure to implement accessibility guidelines could be classed as discrimination under the Disability Discrimination Act (DDA). The RNIB has approached two large companies about their accessibility issues and has threatened to sue if they weren’t fixed. (INCLUDE RNIB PRESS OFFICE REPLY). This legislation ensures that websites are accessible to blind and disabled users. -->
-
---- equality act 2010 ---
+--- equality act 2010, DDA does not exist anymore ---
 
 And of course, we want to make awesome stuff in general!
 
@@ -191,7 +189,7 @@ All abbreviations are explained within the same viewport as the actual abbreviat
 Language should be inclusive to all.
 
 ####Explain any words that are hard to pronounce
-Self explanatoty.
+Self explanatory.
 
 ##Testing
 You can test yourself using online services, though be aware that these will pick up 25% of issues at best: use your user researchers!
@@ -232,7 +230,15 @@ Screen readers are software designed to allow blind or visually impaired users d
 
 * NVDA is open source software, which means the code is accessible to anyone. This enables translators and developers around the world to continually contribute to its expansion and improvement.
 
+#Useful links
 
-
+* [ARIA Practical Examples](http://heydonworks.com/practical_aria_examples/)
+* [Creating Accessible PDFs](https://www.gov.uk/service-manual/user-centred-design/resources/creating-accessible-PDFs.html)
+* [GDS: accessibility blog](https://accessibility.blog.gov.uk/)
+* [GDS: Making your service accessible: an introduction [](https://www.gov.uk/service-manual/helping-people-to-use-your-service/making-your-service-accessible-an-introduction)
+* [Web Accessibility Evaluation Tools List](https://www.w3.org/WAI/ER/tools/?q=wcag-20-w3c-web-content-accessibility-guidelines-20)
+todo:
 
 -- how to utilise in design process vs development
+
+-- disabilities that "fight". visual impairment high contract vs dyslexia low contrast reading
