@@ -12,6 +12,17 @@ The impact of disability is radically changed on the Web because the Web, in itâ
 
 --- equality act 2010, DDA does not exist anymore ---
 
+## The Equality Act 2010
+Since the Disability Discrimination Act 1995 came into force, website owned have been obligated to provide accessible digital products and servers to users with disabilities. These requirements were then merged into the [Equality Act 2010](http://www.legislation.gov.uk/ukpga/2010/15/contents) which was created to provide clarity.
+
+### Reasonable adjustments
+Sections 20 and 29(7) of the Equality Act state that "reasonable adjustments" should be made to allow disabled people to use your services. In the case of imformation being provided:
+
+> The steps which it is reasonable for [an information service provider] to have to take include steps for ensuring that in the circumstances concerned the information is provided in an accessible format.
+** Section 20(6) of the Equality Act 2010 **
+
+The act also states this should be an ongoing task (not just considered once) and it should be anticipatory rather than reactive (7.27 and 7.21 respectively).
+
 And of course, we want to make awesome stuff in general!
 
 ##So how do we do this?
@@ -234,6 +245,7 @@ Screen readers are software designed to allow blind or visually impaired users d
 
 * [ARIA Practical Examples](http://heydonworks.com/practical_aria_examples/)
 * [Creating Accessible PDFs](https://www.gov.uk/service-manual/user-centred-design/resources/creating-accessible-PDFs.html)
+* [Disability Language and Behavior](http://www.disabilitysheffield.org.uk/admin/resources/disability-terminology-and-etiquette.pdf)
 * [GDS: accessibility blog](https://accessibility.blog.gov.uk/)
 * [GDS: Making your service accessible: an introduction [](https://www.gov.uk/service-manual/helping-people-to-use-your-service/making-your-service-accessible-an-introduction)
 * [Web Accessibility Evaluation Tools List](https://www.w3.org/WAI/ER/tools/?q=wcag-20-w3c-web-content-accessibility-guidelines-20)
