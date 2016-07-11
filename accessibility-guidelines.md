@@ -246,7 +246,7 @@ Screen readers are software designed to allow blind or visually impaired users d
 * [Creating Accessible PDFs](https://www.gov.uk/service-manual/user-centred-design/resources/creating-accessible-PDFs.html)
 * [Disability Language and Behavior](http://www.disabilitysheffield.org.uk/admin/resources/disability-terminology-and-etiquette.pdf)
 * [GDS: accessibility blog](https://accessibility.blog.gov.uk/)
-* [GDS: Making your service accessible: an introduction [](https://www.gov.uk/service-manual/helping-people-to-use-your-service/making-your-service-accessible-an-introduction)
+* [GDS: Making your service accessible: an introduction](https://www.gov.uk/service-manual/helping-people-to-use-your-service/making-your-service-accessible-an-introduction)
 * [Web Accessibility Evaluation Tools List](https://www.w3.org/WAI/ER/tools/?q=wcag-20-w3c-web-content-accessibility-guidelines-20)
 
 
