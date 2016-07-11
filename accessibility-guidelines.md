@@ -18,7 +18,7 @@ Sections 20 and 29(7) of the Equality Act state that "reasonable adjustments" sh
 
 > The steps which it is reasonable for [an information service provider] to have to take include steps for ensuring that in the circumstances concerned the information is provided in an accessible format.
 
-** Section 20(6) of the Equality Act 2010 **
+**Section 20(6) of the Equality Act 2010**
 
 The act also states this should be an ongoing task (not just considered once) and it should be anticipatory rather than reactive (7.27 and 7.21 respectively).
 
@@ -248,8 +248,9 @@ Screen readers are software designed to allow blind or visually impaired users d
 * [GDS: accessibility blog](https://accessibility.blog.gov.uk/)
 * [GDS: Making your service accessible: an introduction [](https://www.gov.uk/service-manual/helping-people-to-use-your-service/making-your-service-accessible-an-introduction)
 * [Web Accessibility Evaluation Tools List](https://www.w3.org/WAI/ER/tools/?q=wcag-20-w3c-web-content-accessibility-guidelines-20)
-todo:
 
+
+todo:
 -- how to utilise in design process vs development
 
 -- disabilities that "fight". visual impairment high contract vs dyslexia low contrast reading
