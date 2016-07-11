@@ -256,4 +256,8 @@ Screen readers are software designed to allow blind or visually impaired users d
 * Add links back into WCAG section headings, like the Google doc
 
 #Wanna get involved?
-I've gone through all the techy stuff but need your help! This document was originally for the Wills team to nail form semantics and what not. I'd really like it to become a big living document for the entirety of the Co-op but I can't do that alone any time soon. If you have any input please Slack me, email me or do a pull request. Any submission to the document will be massively appreciated, even if it's just a task for the todo list.
+I've gone through all the techy stuff but need your help!
+
+This document was originally for the Wills team to nail form semantics and what not. I'd really like it to become a big living document for the entirety of the Co-op but I can't do that alone any time soon. If you have any input please Slack me, email me or do a pull request.
+
+Any submission to the document will be massively appreciated, even if it's just a task for the todo list.
