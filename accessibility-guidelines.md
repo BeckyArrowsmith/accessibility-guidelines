@@ -42,6 +42,8 @@ Be aware of how screen readers read out acronyms. “a computer PSU” will be r
 
 Don’t overthink your wording, think of it like a Tweet: you’re trying to get the most information out in the smallest number of characters.
 
+If an image provides no contextual value and is simply for visual purposes be sure to provide an empty `alt=""` attribute, most screen readers may try to read out the entire image URL if there is no alt attribute at all!
+
 ####Title tags
 Title tags are very similar to alt tags though they have a distinct differences. An alt tag is for alternate information, essentially, describing something. A title tag however is used to give extra information. Think of it as a type of tooltip. On most browsers they will actually render as a tooltip. 
 
